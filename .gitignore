@@ -1,0 +1,5 @@
+# dist/
+build/
+__pycache__
+/Sunshine.spec
+/run_sunshine.bat

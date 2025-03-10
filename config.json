@@ -1,0 +1,9 @@
+{
+    "theme": "sandstone",
+    "image_path": "F:/Python_Playground/Sunshine/pic/sun.png",
+    "window_width": 250,
+    "window_height": 310,
+    "refresh_interval": 120,
+    "font_size": 10,
+    "language": "en_US"
+}
