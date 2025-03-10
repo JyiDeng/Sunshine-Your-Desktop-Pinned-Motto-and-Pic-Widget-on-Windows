@@ -1,4 +1,4 @@
-# Sunshine🌞小太阳 - Your Desktop Pinned Motto & Pic (Windows)
+# Sunshine🌞小太阳 - Your Desktop Pinned Motto & Pic Widget (Windows)
 
 🌞**Sunshine 小太阳** 的灵感来源于作者阴雨天时心情不佳，希望用阳光为用户带来温暖。基于 Windows ， Sunshine 可以展示自定义的格言、图片，可以切换喜欢的主题，运行也非常简单。
 
