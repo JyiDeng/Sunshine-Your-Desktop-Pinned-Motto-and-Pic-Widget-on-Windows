@@ -31,7 +31,7 @@ Sunshine was inspired by the author's bad mood on rainy days, hoping to bring wa
 4. 运行 Run：`python Sunshine.py`，并在`设置/Settings`按钮中配置具体的图片、色彩、大小等。 Run the program by `python Sunshine.py`. After that, in the `设置/Settings` button, you can configure specific elements such as images, colors, and size.
 5. 拖拽 Drag：按住图片部分进行拖拽。 Drag on the image part.
 
-# 致谢 Acknowledgement
+## 致谢 Acknowledgement
 
 让我们说谢谢糯米（你可以在`pic/`中发现它的照片作为示例）：Let us thank Nuomi (You can find its photos in `pic/`):
 
