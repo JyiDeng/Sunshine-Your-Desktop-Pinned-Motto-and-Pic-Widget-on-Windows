@@ -12,9 +12,9 @@ Sunshine was inspired by the author's bad mood on rainy days, hoping to bring wa
 
 ### Sunshine 双语效果图 Sunshine Screenshot （Both in Chinese and English）
 
-![Sunshine 效果图](pic\Sunshine.png)
+![Sunshine 效果图](pic/Sunshine.png)
 
-![Sunshine 效果图-en](pic\Sunshine_en.png)
+![Sunshine 效果图-en](pic/Sunshine_en.png)
 
 ### 双语配置效果图 Config Screenshot （Both in Chinese and English）
 
@@ -35,6 +35,6 @@ Sunshine was inspired by the author's bad mood on rainy days, hoping to bring wa
 
 让我们说谢谢糯米（你可以在`pic/`中发现它的照片作为示例）：Let us thank Nuomi (You can find its photos in `pic/`):
 
-![糯米-竖](pic\cat.jpg)
-![糯米-横](pic\cat2.jpg)
+![糯米-竖](pic/cat.jpg)
+![糯米-横](pic/cat2.jpg)
 
